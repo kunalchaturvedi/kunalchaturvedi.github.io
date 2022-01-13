@@ -1,2 +1,2 @@
 # kunalchaturvedi.github.io
-My homepage is under construction. come visit at https://kunal-chaturvedi.netlify.app/
+My homepage is under construction. come visit at [My new homepage](https://kunal-chaturvedi.netlify.app/)
